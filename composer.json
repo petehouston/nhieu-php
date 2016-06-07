@@ -1,0 +1,24 @@
+{
+    "name": "petehouston/nhieu-php",
+    "description": "The pluralization for Vietnamese words",
+    "homepage": "https://github.com/petehouston/nhieu-php",
+    "license": "MIT",
+    "keywords": ["string", "vietnamese", "pluralize", "pluralization", "php", "language"],
+    "authors": [
+        {
+            "name": "Pete Houston",
+            "email": "contact@petehouston.com",
+            "homepage": "http://petehouston.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "files": [
+            "src/nhieu.php"
+        ]
+    }
+}
