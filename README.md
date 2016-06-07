@@ -38,3 +38,12 @@ nhieu("lập trình viên", -100); // không lập trình viên
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+
+[ico-version]: https://img.shields.io/packagist/v/petehouston/nhieu-php.svg?style=flat-square
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/petehouston/nhieu-php.svg?style=flat-square
+
+[link-packagist]: https://packagist.org/packages/petehouston/nhieu-php
+[link-downloads]: https://packagist.org/packages/petehouston/nhieu-php
+[link-author]: https://github.com/petehouston
