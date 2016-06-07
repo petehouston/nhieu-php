@@ -12,7 +12,13 @@ $ composer require petehouston/nhieu-php
 
 ## Usage
 
-Nothing much to tell, just a simple function:
+Make sure to include the `autoload.php`:
+
+```php
+require 'vendor/autoload.php';
+```
+
+Just call a simple function `nhieu($word, $count = 11)`:
 
 ```php
 nhieu("xe", 0); // không xe
