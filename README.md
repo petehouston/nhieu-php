@@ -1,6 +1,7 @@
 # nhieu-php
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
+[![Build Status](https://travis-ci.org/petehouston/nhieu-php.svg?branch=master)](https://travis-ci.org/petehouston/nhieu-php)
 [![Software License][ico-license]](LICENSE.md)
 
 A very simple helper library for pluralizing Vietnamese.
